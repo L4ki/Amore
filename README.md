@@ -1,0 +1,2 @@
+# Amore
+Plasma Theme
