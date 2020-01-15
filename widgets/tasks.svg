@@ -23,8 +23,8 @@
    version="1.0"
    viewBox="0 0 188 124.00001">
   <sodipodi:namedview
-     inkscape:window-height="977"
-     inkscape:window-width="1280"
+     inkscape:window-height="1030"
+     inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      guidetolerance="10.0"
@@ -34,9 +34,9 @@
      bordercolor="#666666"
      pagecolor="#ffffff"
      id="base"
-     inkscape:zoom="5.6568543"
-     inkscape:cx="73.079545"
-     inkscape:cy="35.083726"
+     inkscape:zoom="4"
+     inkscape:cx="36.407793"
+     inkscape:cy="32.550909"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:current-layer="layer2"
@@ -154,18 +154,6 @@
          id="stop1532" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
-       id="linearGradient1571">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop1567" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop1569" />
-    </linearGradient>
-    <linearGradient
        id="linearGradient1565"
        inkscape:collect="always">
       <stop
@@ -212,30 +200,6 @@
          style="stop-color:#7f2aff;stop-opacity:0;"
          offset="1"
          id="stop1544" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient1588">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop1584" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop1586" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient1580">
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="0"
-         id="stop1576" />
-      <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="1"
-         id="stop1578" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -324,7 +288,7 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient1580"
+       xlink:href="#linearGradient1572"
        id="linearGradient1582"
        x1="18.500099"
        y1="3.3680189"
@@ -333,7 +297,7 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient1588"
+       xlink:href="#linearGradient1572"
        id="linearGradient1590"
        x1="18.379562"
        y1="3.7373374"
@@ -396,7 +360,7 @@
        gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient1571"
+       xlink:href="#linearGradient1572"
        id="linearGradient1573"
        x1="18.759615"
        y1="17.35"
@@ -1415,7 +1379,7 @@
          height="13"
          width="27"
          id="rect4957-0"
-         style="color:#31363b;fill:url(#linearGradient1573);fill-opacity:1;stroke:none"
+         style="color:#31363b;fill:url(#linearGradient1573);fill-opacity:1;stroke:none;opacity:0.6"
          class="ColorScheme-Text" />
     </g>
     <g
@@ -2519,7 +2483,7 @@
          height="13"
          width="27"
          id="rect4957-0-98"
-         style="color:#31363b;fill:url(#linearGradient1574);fill-opacity:1;stroke:none"
+         style="color:#31363b;fill:url(#linearGradient1574);fill-opacity:1;stroke:none;opacity:0.6"
          class="ColorScheme-Text" />
     </g>
     <g
@@ -3614,7 +3578,7 @@
          height="14.168509"
          width="27"
          id="rect4957-0-5-7-4-43"
-         style="color:#31363b;fill:url(#linearGradient1582);fill-opacity:1;stroke:none;stroke-width:1.04397571"
+         style="color:#31363b;fill:url(#linearGradient1582);fill-opacity:1;stroke:none;stroke-width:1.04397571;opacity:0.6"
          class="ColorScheme-Text" />
     </g>
     <g
@@ -4733,7 +4697,7 @@
          height="14.020782"
          width="27"
          id="rect4957-0-5-7-4-43-5"
-         style="color:#31363b;fill:url(#linearGradient1590);fill-opacity:1;stroke:none;stroke-width:1.03851891"
+         style="color:#31363b;fill:url(#linearGradient1590);fill-opacity:1;stroke:none;stroke-width:1.03851891;opacity:0.6"
          class="ColorScheme-Text" />
     </g>
     <g

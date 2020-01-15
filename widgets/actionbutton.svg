@@ -5,10 +5,34 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
    height="128"
    width="128"
-   version="1.0">
+   version="1.0"
+   sodipodi:docname="actionbutton.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1030"
+     id="namedview17"
+     showgrid="false"
+     inkscape:zoom="7.375"
+     inkscape:cx="51.383667"
+     inkscape:cy="63.573644"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
   <defs
      id="defs4" />
   <metadata
@@ -19,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -34,7 +58,7 @@
        x="-2.1282673"
        y="6.7885995" />
     <rect
-       style="opacity:0.80500034;fill:#f2f4f4;fill-opacity:1;stroke:#97a6a7;stroke-width:0.72290641;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.6;fill:#8a496b;fill-opacity:1;stroke:#7bc2c3;stroke-width:0.72290641;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4525"
        width="21.277094"
        height="21.277094"
@@ -57,7 +81,7 @@
        height="21.277094"
        width="21.277094"
        id="rect4537"
-       style="opacity:0.80500034;fill:#f2f4f4;fill-opacity:1;stroke:#97a6a7;stroke-width:0.72290641;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:0.6;fill:#8a496b;fill-opacity:1;stroke:#7bc2c3;stroke-width:0.72290641;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
   <g
      transform="translate(66.280285,20.218527)"
@@ -75,7 +99,7 @@
        height="21.277094"
        width="21.277094"
        id="rect4543"
-       style="opacity:0.80500034;fill:#f2f4f4;fill-opacity:1;stroke:#8db0b1;stroke-width:0.72290641;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:0.6;fill:#8a496b;fill-opacity:1;stroke:#7bc2c3;stroke-width:0.72290641;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
   <g
      id="hover"
@@ -88,7 +112,7 @@
        x="-2.1282673"
        y="6.7885995" />
     <rect
-       style="opacity:0.80500034;fill:#f2f4f4;fill-opacity:1;stroke:#7bc2c3;stroke-width:0.72290641;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.6;fill:#8a496b;fill-opacity:1;stroke:#7bc2c3;stroke-width:0.72290641;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4549"
        width="21.277094"
        height="21.277094"

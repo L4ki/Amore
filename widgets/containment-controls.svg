@@ -32,15 +32,15 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="4.8156426"
-     inkscape:cx="63.008929"
+     inkscape:cx="-11.539793"
      inkscape:cy="57.451122"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      width="128px"
      height="128px"
      showgrid="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="977"
+     inkscape:window-width="1920"
+     inkscape:window-height="1029"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:snap-nodes="true"
@@ -280,7 +280,7 @@
          class="ColorScheme-Background" />
     </g>
     <rect
-       style="opacity:0.4;fill:#8a496b;fill-opacity:1;stroke:none"
+       style="opacity:0.5;fill:#fcf9fa;fill-opacity:1;stroke:none"
        id="south-center"
        width="10"
        height="12"
@@ -295,10 +295,10 @@
        height="1"
        width="10"
        id="south-bottom"
-       style="opacity:0.4;fill:#8a496b;fill-opacity:1;stroke:none"
+       style="opacity:0.5;fill:#fcf9fa;fill-opacity:1;stroke:none"
        inkscape:label="#rect5509" />
     <rect
-       style="opacity:0.4;fill:#8a496b;fill-opacity:1;stroke:none"
+       style="opacity:0.5;fill:#fcf9fa;fill-opacity:1;stroke:none"
        id="south-top"
        width="10"
        height="1"
@@ -307,7 +307,7 @@
        class="ColorScheme-ButtonText"
        inkscape:label="#rect5511" />
     <rect
-       style="opacity:0.4;fill:#8a496b;fill-opacity:1;stroke:none"
+       style="opacity:0.7;fill:#fcf9fa;fill-opacity:1;stroke:none"
        id="north-center"
        width="10"
        height="12"
@@ -322,10 +322,10 @@
        height="1"
        width="10"
        id="north-bottom"
-       style="opacity:0.4;fill:#8a496b;fill-opacity:1;stroke:none"
+       style="opacity:0.7;fill:#fcf9fa;fill-opacity:1;stroke:none"
        inkscape:label="#rect5509" />
     <rect
-       style="opacity:0.4;fill:#8a496b;fill-opacity:1;stroke:none"
+       style="opacity:0.7;fill:#fcf9fa;fill-opacity:1;stroke:none"
        id="north-top"
        width="10"
        height="1"
@@ -334,7 +334,7 @@
        class="ColorScheme-ButtonText"
        inkscape:label="#rect5511" />
     <rect
-       style="opacity:0.4;fill:#8a496b;fill-opacity:1;stroke:none"
+       style="opacity:0.5;fill:#fcf9fa;fill-opacity:1;stroke:none"
        id="west-center"
        width="10"
        height="12"
@@ -350,11 +350,11 @@
        height="1"
        width="10"
        id="west-left"
-       style="opacity:0.4;fill:#8a496b;fill-opacity:1;stroke:none"
+       style="opacity:0.5;fill:#fcf9fa;fill-opacity:1;stroke:none"
        inkscape:label="#rect5509"
        transform="matrix(0,1,-1,0,0,0)" />
     <rect
-       style="opacity:0.4;fill:#8a496b;fill-opacity:1;stroke:none"
+       style="opacity:0.5;fill:#fcf9fa;fill-opacity:1;stroke:none"
        id="west-right"
        width="10"
        height="1"
@@ -364,7 +364,7 @@
        inkscape:label="#rect5511"
        transform="matrix(0,1,-1,0,0,0)" />
     <rect
-       style="opacity:0.4;fill:#8a496b;fill-opacity:1;stroke:none"
+       style="opacity:0.5;fill:#fcf9fa;fill-opacity:1;stroke:none"
        id="east-center"
        width="10"
        height="12"
@@ -380,11 +380,11 @@
        height="1"
        width="10"
        id="east-left"
-       style="opacity:0.4;fill:#8a496b;fill-opacity:1;stroke:none"
+       style="opacity:0.5;fill:#fcf9fa;fill-opacity:1;stroke:none"
        inkscape:label="#rect5509"
        transform="matrix(0,1,-1,0,0,0)" />
     <rect
-       style="opacity:0.4;fill:#8a496b;fill-opacity:1;stroke:none"
+       style="opacity:0.5;fill:#fcf9fa;fill-opacity:1;stroke:none"
        id="east-right"
        width="10"
        height="1"
