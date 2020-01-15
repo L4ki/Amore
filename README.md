@@ -10,3 +10,8 @@ Changelog: 05.09.2010.
 ----------------------
 
 Icons added: battery.svg, input.svg
+
+Changelog: 15.01.2020.
+-----------------------
+
+Redesigned Theme
